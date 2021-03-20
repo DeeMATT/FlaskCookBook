@@ -51,7 +51,7 @@ httplib2==0.11.3
 idna==2.6
 isort==4.3.20
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonschema==2.6.0
 kazam==1.4.5
 keyring==17.1.1
