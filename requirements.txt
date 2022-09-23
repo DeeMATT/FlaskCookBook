@@ -81,7 +81,7 @@ pexpect==4.6.0
 Pillow==5.4.1
 pipdeptree==0.13.2
 ply==3.11
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.5.1
 psycopg2==2.8.4
 py-expression-eval==0.3.9
